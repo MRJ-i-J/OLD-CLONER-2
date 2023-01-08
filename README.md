@@ -1,7 +1,7 @@
 # OLD-CLONER-2
 cd
 
-rm -Old-Cloner
+rm -rf Old-Cloner
 
 pkg update
 
